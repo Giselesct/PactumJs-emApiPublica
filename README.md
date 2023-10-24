@@ -13,7 +13,9 @@ NodeJSv18
 Dentro da pasta do projeto execute:
 
 1- npm install --save-dev
+
 2- npm run ci
+
 Depois disso você deverá ver uma ./outputpasta com alguns HTMLrelatórios.
 
 
