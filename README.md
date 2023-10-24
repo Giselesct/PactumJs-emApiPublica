@@ -4,7 +4,7 @@ Neste projeto fiz os testes dentro de uma Api publica onde consegui fazer as req
 
 
 <h1 align="center"> Documentos do Pactum:  </h1>
-Pactum JS
+https://pactumjs.github.io/introduction/welcome.html
 
 <h1 align="center"> Pré-requisitos:  </h1>
 NodeJSv18
