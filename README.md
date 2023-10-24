@@ -1,5 +1,5 @@
 <h1 align="center"> PactumJS </h1>
-
+Neste projeto fiz os testes dentro de uma Api publica onde consegui fazer as requisições permitidas pelo desenvolvedor.
 
 
 
